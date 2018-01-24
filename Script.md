@@ -21,8 +21,9 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-Shane met the Unicorn King who granted him magic powers.
-The end.
+Shane met the Unicorn King who granted him magic powers. However, the powers are cursed.
+Shane now has to fight for his freedom as the powers drains his life force.
+To be continued...
 
 ## Cast
 
