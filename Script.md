@@ -26,6 +26,7 @@ The end.
 
 ## Cast
 
+* Young Robot: Ron
 * Young Boy: Eliel
 * Unicorn King: Alan
 * Zookeeper: Braus
