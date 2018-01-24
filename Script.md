@@ -21,15 +21,12 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-<<<<<<< HEAD
 Shane met the Unicorn King who granted him magic powers. However, the powers are cursed.
 Shane now has to fight for his freedom as the powers drains his life force.
+However, to make matters worse, Ron the robot appears.
+Ron knocks Shane out, and takes the Unicorn King captive.
+Now, Shane is forced to use his powers, even though using his powers drains away his life.
 To be continued...
-=======
-Shane met the Unicorn King who granted him magic powers. However, the Ron the robot  appears.
-Ron knocks the Shane out, and takes the Unicorn King captive.
-The end.
->>>>>>> new-robot-character
 
 ## Cast
 
